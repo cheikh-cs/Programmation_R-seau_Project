@@ -5,7 +5,7 @@ Ici nous avons mis en place des scripts permettant d'etablir des connexion entre
 **A - Script database.py : module qui permet d'interagir avec la base de données.**
 
 ce script permet d'etablir une communication entre le serveur et la base de données pour l'enregistrement, la sauvegarde des informations des clients.
--nous avons donc importer mysql.connector qui est un module qui permet d'interagir avec la base de données.
+-nous avons donc importer mysql.connector qui est un module qui permet d'interagir avec la base de données..
 Ce script sera exécuté dans la machine serveur.
 
 
