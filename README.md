@@ -34,6 +34,6 @@ Pour lancer le script on execute la commande : **python3 client.py.**
 **D- Analyseur_Packet : module qui permet de capturer des packets UDP/TCP.**
 Ce script fonctionne en analysant les paquets et récupère ensuite tous les packets TCP/UDP en plus des entête les types de protocoles utilisés les adresses IP  puis les ports utilisés dans la communication. 
 
-On lance le script dans une machine Kali linux qui fait office de Man in the Middle en executant la commande : **python3 Analyseur_Packet.py 60** (60 est le durée d'analyse des packest en s)
+On lance le script dans une machine Kali linux qui fait office de Man in the Middle en executant la commande : **python3 Analyseur_Packet.py 120** (120 est le durée d'analyse des packest en s)
 
 
